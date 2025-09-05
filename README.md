@@ -1,4 +1,4 @@
 # nityahiray-demo
 This is my first git repository
 <br>
-Author-nityahiray
+Author-nityahiray(kvn naik college)
